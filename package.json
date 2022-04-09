@@ -1,0 +1,16 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "It is a simple to do list to group up your tasks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saumya Isha Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
